@@ -1,6 +1,7 @@
 {
     "type": "module",
     "dependencies": {
+        "@dagrejs/graphlib": "^2.2.1",
         "js-yaml": "^4.1.0"
     }
 }
